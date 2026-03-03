@@ -12,3 +12,4 @@ C:\Users\LuisMazariego\source\repos\AlgorithmsDataStructures\src\AlgorithmsDataS
 C:\Users\LuisMazariego\source\repos\AlgorithmsDataStructures\src\AlgorithmsDataStructures\obj\Debug\net10.0\AlgorithmsDataStructures.pdb
 C:\Users\LuisMazariego\source\repos\AlgorithmsDataStructures\src\AlgorithmsDataStructures\obj\Debug\net10.0\AlgorithmsDataStructures.genruntimeconfig.cache
 C:\Users\LuisMazariego\source\repos\AlgorithmsDataStructures\src\AlgorithmsDataStructures\obj\Debug\net10.0\ref\AlgorithmsDataStructures.dll
+C:\Users\LuisMazariego\source\repos\AlgorithmsDataStructures\src\AlgorithmsDataStructures\obj\Debug\net10.0\AlgorithmsDataStructures.sourcelink.json
