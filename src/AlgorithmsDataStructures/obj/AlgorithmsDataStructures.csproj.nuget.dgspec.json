@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LuisMazariego\\source\\repos\\AlgorithmsDataStructures\\src\\AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj": {}
+    "/Users/luismazariego/Repositorios/algoritmos/data-structures-algorithms/src/AlgorithmsDataStructures/AlgorithmsDataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LuisMazariego\\source\\repos\\AlgorithmsDataStructures\\src\\AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj": {
+    "/Users/luismazariego/Repositorios/algoritmos/data-structures-algorithms/src/AlgorithmsDataStructures/AlgorithmsDataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LuisMazariego\\source\\repos\\AlgorithmsDataStructures\\src\\AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj",
+        "projectUniqueName": "/Users/luismazariego/Repositorios/algoritmos/data-structures-algorithms/src/AlgorithmsDataStructures/AlgorithmsDataStructures.csproj",
         "projectName": "AlgorithmsDataStructures",
-        "projectPath": "C:\\Users\\LuisMazariego\\source\\repos\\AlgorithmsDataStructures\\src\\AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj",
-        "packagesPath": "C:\\Users\\LuisMazariego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LuisMazariego\\source\\repos\\AlgorithmsDataStructures\\src\\AlgorithmsDataStructures\\obj\\",
+        "projectPath": "/Users/luismazariego/Repositorios/algoritmos/data-structures-algorithms/src/AlgorithmsDataStructures/AlgorithmsDataStructures.csproj",
+        "packagesPath": "/Users/luismazariego/.nuget/packages/",
+        "outputPath": "/Users/luismazariego/Repositorios/algoritmos/data-structures-algorithms/src/AlgorithmsDataStructures/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LuisMazariego\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/luismazariego/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

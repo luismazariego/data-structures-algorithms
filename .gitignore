@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+**/obj/
+
+# Common .NET build outputs
+*.dll
+*.exe
+*.pdb

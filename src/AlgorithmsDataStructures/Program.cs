@@ -1,15 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-using AlgorithmsDataStructures.DataStructures;
-using AlgorithmsDataStructures.DataStructures.SearchAlgorithms;
-using AlgorithmsDataStructures.DataStructures.SortAlgorithms;
+﻿using AlgorithmsDataStructures.DataStructures;
 
-//Console.WriteLine("Hello, World!");
+NodeA leaf1 = new NodeA(null, null);
+        NodeA leaf2 = new NodeA(null, null);
+        NodeA node = new NodeA(leaf1, null);
+        NodeA root = new NodeA(node, leaf2);
 
-HashTables hashTable = new HashTables(10);
-hashTable.Insert("apple", "apple");
-hashTable.Insert("banana", "banana");
-hashTable.Insert("orange", "orange");
-hashTable.Insert("grape", "grape");
-Console.WriteLine(hashTable.Find("banana")); // Output: "banana"
-Console.WriteLine(hashTable.Find("pear"));   // Output: ""
-// hashTable.Insert("apple", "apple"); // Collision occurred for value 'apple' at index 5. Value 'apple' is already stored at this index.
+        Console.WriteLine(root.Height());
